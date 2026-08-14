@@ -1,0 +1,11 @@
+Package: com.ivintagelover.locktime27
+Name: LockTime26(2)
+Version: 1.0.0
+Section: Themes
+Architecture: iphoneos-arm
+Filename: ./debs/com.ivintagelover.locktime26_1.0_iphoneos-arm.deb
+Size: 6844156
+MD5sum: 68cbdcb53169cdad157d8807f349d9eb
+Description: iOS 27 icon theme for SnowBoard
+Maintainer: debiansnack
+Depends: com.spark.snowboard
